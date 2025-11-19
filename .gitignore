@@ -1,0 +1,25 @@
+# IntelliJ / IDEA
+.idea/
+*.iml
+out/
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+*.class
+*.jar
+
+# Ignore local config if you create it
+config.local.properties
