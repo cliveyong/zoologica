@@ -17,6 +17,11 @@ This started as a university database course project using Oracle. I have refact
 * **Database:** PostgreSQL
 * **GUI:** Swing (w/ Nimbus)
 
+## Screenshots
+
+<img src="./screenshots/Workers.png" alt="Workers tab" width="49%">
+<img src="./screenshots/Vets.png" alt="Insert new vet tab" width="49%">
+
 ## Features
 
 ### Core tabs
@@ -169,8 +174,3 @@ Make sure the PostgreSQL JDBC driver is on your classpath, e.g.:
 1. Import as a Java project.
 2. Ensure the PostgreSQL driver jar is configured as a library/dependency.
 3. Run the `main` method in `UI.ZooController`.
-
-## Screenshots
-
-<img src="./screenshots/Workers.png" alt="Workers tab" width="49%">
-<img src="./screenshots/Vets.png" alt="Insert new vet tab" width="49%">
